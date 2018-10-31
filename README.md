@@ -1,16 +1,18 @@
 # Array VS List
 
-Ce repo GitHub a pour objectif de comparer la durée d'exécution d'une array et d'une liste à grande échelle.
+Ce repo GitHub a pour objectif de comparer la durée d'exécution d'une array et d'une liste à grande échelle sur le logiciel Unity 3D.
 
-Un même script a été rédigé puis adapté pour une apparition et un stockage de masse dans une array et une liste. Le but étant de voir laquelle des deux est la plus rapide.
+Un même script a été rédigé puis adapté pour une apparition et un stockage de masse d'objets dans une array et une liste sur Unity 3D. Le but étant de voir laquelle des deux est la plus rapide.
 
 # Mise en place et tests
 
-Il vous suffit d'ouvrir la scène "testScene", activer ensuite l'un des deux scripts se trouvant sur le l'empty dans la scène **(n'activez pas les deux)**, choisissez un nombre d'objets à faire apparaître dans la variable du script activé puis appuyez sur Play. 
+Il vous suffit d'ouvrir la scène "testScene", activez ensuite l'un des deux scripts se trouvant sur le l'empty dans la scène **(n'activez pas les deux)**, choisissez le nombre d'objets à faire apparaître dans la variable du script activé puis appuyez sur Play. 
 
-Après quelques secondes, la console affichera la date et l'heure d'exécution du script (fonction Start) et la date et l'heure à laquelle le script s'est terminé.
+Après quelques secondes de chargement, la console affichera la date et l'heure d'exécution du script (fonction Start) et la date et l'heure à laquelle le code s'est terminé.
 
-Note : Selon votre configuration, Unity peut avoir besoin de plus ou moins de temps avant de vous afficher les messages dans la console. Restez raisonable sur le nombre d'objets à faire apparaître si vous ne voulez pas que votre Unity (voir votre PC) crash.
+_Note_ : Selon la config de votre machine, Unity 3D peut avoir besoin de plus ou moins de temps avant de vous afficher les messages dans la console. Restez raisonable sur le nombre d'objets à faire apparaître si vous ne voulez pas que votre Unity (voir votre PC) crash.
+
+**Je ne suis en aucun cas responsable des dommages que pourrait causer ce repo :)**
 
 # Crédits
 
